@@ -6,7 +6,7 @@ dependencies.
 
 ### Key tools and concepts
 
-Services used were ec2 , CodeArtifact and IAM Role and Policy. Key concepts 
+Services used were Termius, ec2 , CodeArtifact, Git and IAM Role and Policy. Key concepts 
 learnt includes package management lifecycle, environmental variables, CodeArtifact
 Domains, IAM resources use cases among among others
 
